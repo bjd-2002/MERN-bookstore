@@ -1,2 +1,2 @@
-# A Full-Stack MERN App 
+# A Simple MERN App 
 ## It supports CRUD operations
